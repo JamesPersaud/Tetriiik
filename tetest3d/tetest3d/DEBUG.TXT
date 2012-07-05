@@ -1,0 +1,5 @@
+  
+:  Handling WM_ACTIVATEAPP message  
+:  Calling ResetDevice  
+:  Executing ResetDevice  
+:  Posting WM_DESTROY message

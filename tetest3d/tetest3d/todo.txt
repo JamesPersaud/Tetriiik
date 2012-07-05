@@ -1,0 +1,28 @@
+
+DONE:
+
+pause function // timer changed to game tick count. Frames rendered constantly/GAME UPDATE FRAMES limited
+score (saving) // high score pair vector management
+
+	
+TODO:	
+
+prefs (saving)
+next shape placement (based on screen size)
+scale ui to screen size.
+display lines
+ui
+  windows
+  labels
+  buttons
+  checkboxes
+  radio buttons
+  number spinners
+  dropdown boxes
+  text fields?
+bilboarding?
+
+
+HOLD:
+
+minimise/maximise //Implemented code from DirextXTutorial - doesn't work!!  
